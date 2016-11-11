@@ -1,0 +1,18 @@
+# References #
+##############
+# https://github.com/github/gitignore/blob/master/Python.gitignore
+# 
+
+
+# Compiled source #
+###################
+*.py[cod]
+__pycache__/
+
+# Jupyter Notebook #
+####################
+.ipynb_checkpoints
+
+# Input files #
+###############
+*.csv
