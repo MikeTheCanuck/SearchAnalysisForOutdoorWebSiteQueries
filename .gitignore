@@ -12,3 +12,7 @@ __pycache__/
 # Jupyter Notebook #
 ####################
 .ipynb_checkpoints
+
+# Input files #
+###############
+*.csv
